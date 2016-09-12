@@ -1,2 +1,3 @@
 # Hello-World
-trial project
+trial project.
+I am trying to figure out the commands.
